@@ -1,5 +1,5 @@
 # java---4
-# JAVA 类继承与文件保存实验报告
+# JAVA 类继承与文件保存读取实验报告
 
 ## 一、实验目的
 
@@ -48,6 +48,7 @@ CourseFileParser 类包含一个核心的方法parseCoursesFromFile，该方法�
 5. 在测试类中模拟学生选课流程，并观察结果。
 
 ## 五、实验结果
+**Test.java**
 ---
 学生编号：1001
 学生姓名：李四
@@ -82,6 +83,15 @@ CourseFileParser 类包含一个核心的方法parseCoursesFromFile，该方法�
 - 授课教师：张三
 
 ---
+
+
+**Main.java调试结果**
+γID: 1
+γ: Java编程
+γID: 2
+γ: Python编程
+γID: 3
+γ: Web??
 
 
 ## 六、文件保存实现
