@@ -92,7 +92,7 @@ CourseFileParser 类包含一个核心的方法parseCoursesFromFile，该方法�
 γ: Python编程
 γID: 3
 γ: Web??
-
+(异常处理，在不同文件和环境中读写需要统一编码格式，本实验使用UTF-8编码)
 
 ## 六、文件保存实现
 
